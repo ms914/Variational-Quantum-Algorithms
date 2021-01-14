@@ -6,3 +6,4 @@ The main idea is to replace lengthy phase estimation procedures through classica
 1. [Variational Quantum Algorithms](https://arxiv.org/pdf/2012.09265.pdf)
 2. [EV loading](https://arxiv.org/abs/2012.14859)
 3. [Quantum Chemistry with Quantum Computers](https://arxiv.org/pdf/1812.09976.pdf)
+4. [QAOA without classical loop](https://arxiv.org/pdf/1908.08862.pdf)
