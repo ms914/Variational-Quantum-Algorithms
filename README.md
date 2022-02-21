@@ -9,3 +9,4 @@ The main idea is to replace lengthy phase estimation procedures through classica
 4. [QAOA without classical loop](https://arxiv.org/pdf/1908.08862.pdf)
 5. [Momentum-Space Unitary Coupled Cluster and Translational Quantum SubspaceExpansion for Periodic Systems on Quantum Computers](https://arxiv.org/pdf/2008.08694.pdf)
 6. [Efficient Quantum Circuits for Quantum computational chemistry](https://arxiv.org/pdf/2005.14475.pdf)
+7. [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/pdf/2101.08448.pdf)
