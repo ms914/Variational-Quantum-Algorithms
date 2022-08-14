@@ -11,3 +11,4 @@ The main idea is to replace lengthy phase estimation procedures through classica
 6. [Efficient Quantum Circuits for Quantum computational chemistry](https://arxiv.org/pdf/2005.14475.pdf)
 7. [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/pdf/2101.08448.pdf)
 8. [Lithium batteries materials](https://arxiv.org/abs/2204.11890v1)
+9. [Fermion to QBit mapping](https://arxiv.org/pdf/2003.06939.pdf)
